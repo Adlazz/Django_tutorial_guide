@@ -192,7 +192,7 @@ Son los archivos que describen los cambios en los modelos para reflejarlos en la
 
 ---
 
-## ✅ Siguientes pasos sugeridos
+## ✅ Siguientes pasos
 
 - Registrar los modelos en el admin para gestionarlos visualmente.
 - Crear un formulario para agregar recetas.
