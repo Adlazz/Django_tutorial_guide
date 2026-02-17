@@ -8,9 +8,9 @@ Este tutorial crea una aplicación web con Django donde se listan recetas y sus 
 
 ```bash
 python -m venv venv
-source venv/Scripts/activate  # Windows
+venv/Scripts/activate  # Windows
 # source venv/bin/activate    # Linux / MacOS
-pip install --upgrade pip
+python.exe -m pip install --upgrade pip
 ```
 
 ---
