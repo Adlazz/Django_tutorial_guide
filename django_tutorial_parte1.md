@@ -43,6 +43,8 @@ python manage.py runserver
 
 Verifica que funcione ingresando a [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
+![Django instalado correctamente](assets/django_install.png)
+
 ---
 
 ## 5. Crear una app llamada `recipes`
