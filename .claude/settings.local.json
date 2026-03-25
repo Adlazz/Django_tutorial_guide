@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git mv django_tutorial_parte1_explicativa.md tutorial01_setup_initial_app_detailed.md)",
+      "Bash(git mv django_tutorial_parte3.md tutorial03_views_templates_urls.md)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
